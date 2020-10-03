@@ -1,0 +1,23 @@
+* {
+    font-family: 'Questrial', sans-serif;
+    text-align: center;
+    margin: .2em;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 3em;
+}
+
+#container {
+    font-size: x-large;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    color: #e100ff;
+}
